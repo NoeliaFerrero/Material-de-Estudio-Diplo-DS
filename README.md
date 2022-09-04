@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/nicoambrosis/DiploDatos/blob/main/Banner%20Diplodatos.png">
+  <img src="https://github.com/NoeliaFerrero/DiploDatos/blob/main/Banner%20Diplodatos.png">
 </p>
 <h1 align='center'> DiploDatos </h1>
 
@@ -9,8 +9,8 @@ Notas, apuntes, gráficos, visualizaciones, ideas, etc. surgidos de la [Diplomat
 
 ---
 <p align="center">
-  <a href="https://github.com/nicoambrosis/Analisis-y-Visualizacion-de-datos" target="_blank" rel="noreferrer">
-  <img width="75%" src="https://github.com/nicoambrosis/Analisis-y-Visualizacion-de-datos/blob/main/Banner.png">
+  <a href="https://github.com/NoeliaFerrero/Analisis-y-Visualizacion-de-datos" target="_blank" rel="noreferrer">
+  <img width="75%" src="https://github.com/NoeliaFerrero/Analisis-y-Visualizacion-de-datos/blob/main/Banner.png">
 </p>
   
   
@@ -30,8 +30,8 @@ Notas, apuntes, gráficos, visualizaciones, ideas, etc. surgidos de la [Diplomat
 </p>
   
 <p align="center">
-  <a href="https://github.com/nicoambrosis/Aprendizaje-No-Supervisado" target="_blank" rel="noreferrer">
-  <img width="75%" src="https://github.com/nicoambrosis/Aprendizaje-No-Supervisado/blob/main/Banners%20Diplodatos.png">
+  <a href="https://github.com/NoeliaFerrero/Aprendizaje-No-Supervisado" target="_blank" rel="noreferrer">
+  <img width="75%" src="https://github.com/NoeliaFerrero/Aprendizaje-No-Supervisado/blob/main/Banners%20Diplodatos.png">
 </p>
 
   
