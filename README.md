@@ -16,12 +16,12 @@ Notas, apuntes, gráficos, visualizaciones, ideas, etc. surgidos de la [Diplomat
   
 <p align="center">
   <a href="https://github.com/nicoambrosis/Analisis-Exploratorio-y-Curacion-de-datos" target="_blank" rel="noreferrer">
-  <img width="75%" src="https://github.com/nicoambrosis/Analisis-Exploratorio-y-Curacion-de-datos/blob/main/Banners%20Diplodatos.png">
+  <img width="75%" src="https://github.com/NoeliaFerrero/Analisis-Exploratorio-y-Curacion-de-datos/blob/main/Banners%20Diplodatos.png">
 </p>
   
 <p align="center">
   <a href="https://github.com/nicoambrosis/Introduccion-al-Aprendizaje-Automatico" target="_blank" rel="noreferrer">
-  <img width="75%" src="https://github.com/nicoambrosis/Introduccion-al-Aprendizaje-Automatico/blob/main/Banners%20Diplodatos.png">
+  <img width="75%" src="https://github.com/NoeliaFerrero/Introduccion-al-Aprendizaje-Automatico/blob/main/Banners%20Diplodatos.png">
 </p>
 
 <p align="center">
