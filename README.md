@@ -5,7 +5,7 @@
 <h1 align='center'> DiploDatos </h1>
 
 
-Notas, apuntes, gráficos, visualizaciones, ideas, etc. surgidos de la [Diplomatura Superior en Data Science Aplicada -2022-](https://www.institucional.frc.utn.edu.ar/sistemas/Areas/noticias/Detalle.asp?2129) de la Universidad Tecnológica Nacional, Facultad Regional Córdoba (UTNFRC).
+Notas, apuntes, gráficos, visualizaciones, ideas, etc. surgidos de la [Diplomatura Superior en Data Science Aplicada -2021-](https://www.institucional.frc.utn.edu.ar/sistemas/Areas/noticias/Detalle.asp?2129) de la Universidad Tecnológica Nacional, Facultad Regional Córdoba (UTNFRC).
 
 ---
 <p align="center">
